@@ -13,7 +13,7 @@ This project is distributed under a GNU General Public License v3 - Take a look 
 Install [Git](http://git-scm.com) if it's not already installed on your computer. Then run (this will download this project to the folder the shell has open):
 
 ```
-$ git clone https://github.com/hiof/designguidelines-assets.git
+$ git clone https://github.com/hiof/design-guides.git
 ```
 
 Install [Node.js](http://nodejs.org) if it's not already installed on your computer. Then run (this will install the project dependencies):
