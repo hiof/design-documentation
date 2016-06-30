@@ -2,7 +2,7 @@
 
 ## About
 
-A content-generator for design.hiof.no/grafisk-profil.
+A content-generator for [design.hiof.no/grafisk-profil](http://design.hiof.no/grafisk-profil).
 
 ## Copyright
 
@@ -40,12 +40,12 @@ $ bower install
 
 ## Required
 
-- Generated content for [design.hiof.no/grafisk-profil](design.hiof.no/grafisk-profil).
+- Generated content for [design.hiof.no/grafisk-profil](http://design.hiof.no/grafisk-profil).
 
 ## Releases
 
 
-[Github releases](https://github.com/hiof/designguidelines-assets/releases)
+[Github releases](https://github.com/hiof/design-guides/releases)
 
 
 ### Roadmap
