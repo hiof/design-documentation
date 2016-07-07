@@ -1,7 +1,7 @@
 ---
 title: Hvordan bruke designmalen
 titletype: 2
-author: Kenneth Dahlstrøm
+author: Kenneth Lindbeck-Dahlstrøm
 date: 2015-07-31
 position: 2
 ---
