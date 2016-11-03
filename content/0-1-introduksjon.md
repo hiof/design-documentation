@@ -1,7 +1,7 @@
 ---
 title: Introduksjon
 titletype: 2
-author: Kenneth Dahlstrøm
+author: Kenneth Lindbeck-Dahlstrøm
 date: 2016-06-30
 position: 1
 ---

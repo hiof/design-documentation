@@ -1,10 +1,7 @@
 ---
 title: Ikonbruk
 titletype: 2
-author: Kenneth Dahlstrøm
-date: 2015-08-04
-position: 4
-illustration: guide-ikoner.jpg
+author: Kenneth Lindbeck-Dahlstrøm
+date: 2016-07-07
+position: 6
 ---
-
-
