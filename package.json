@@ -1,6 +1,6 @@
 {
   "name": "design-guides",
-  "version": "0.0.1",
+  "version": "1.0.1",
   "description": "Content for the HiØ designguides",
   "main": "Gruntfile.js",
   "scripts": {
