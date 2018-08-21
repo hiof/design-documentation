@@ -91,6 +91,7 @@ module.exports = function(grunt) {
 
     // Register tasks
     grunt.registerTask('default', ['m2j']);
+    grunt.registerTask('build', ['m2j', 'copy']);
 
     grunt.registerTask('deploy-stage', ['clean', 'm2j', 'copy', 'sftp:stage']);
     grunt.registerTask('deploy-prod', ['clean', 'm2j', 'copy', 'sftp:prod']);

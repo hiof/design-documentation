@@ -2,7 +2,7 @@
 title: Fargepalett
 titletype: 3
 author: Kenneth Lindbeck-Dahlstrøm
-date: 2016-07-07
+date: 2018-08-21
 position: 4.1
 illustration: guide-farge-og-bilde-fargepalett.jpg
 ---
@@ -23,5 +23,7 @@ Logoens fargepalett består av primærfargen sort og sekundærfargene med tilsva
     - Lavendel
 
 Ved bruk av transparente farger anbefales det å benytte mellom 45 - 85 % opacity for å få riktige effekt over bildebakgrunner.
+
+*Alle filer for print eller web skal lages i fargepofilen Europe General Purpose 3 (FOGRA39). Europe General Purpose 3 (FOGRA39) er en generell fargeprofil som brukes til print og web i Europa. FOGRA39 er tilpasset coated paper for print.*
 
 NB: Kunstnerisk arbeid relatert til Akademi for scenekunst sine produksjoner er fritatt de visuelle retningslinjene for farge og bildebruk.
